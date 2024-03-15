@@ -52,3 +52,11 @@ ERROR CODES:
 21 - No log file detected. Creating one so it can log details.
 
 ---------------------------------------------------------------------------------------------------------
+
+FLAGS:
+/r - Will output README.txt file
+/R - Will open README.txt file in notepad
+/l - Will open log file "CopyData.log"
+/L - Will open log file "CopyData.log" in notepad
+
+---------------------------------------------------------------------------------------------------------
